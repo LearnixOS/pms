@@ -4,7 +4,7 @@ PMS was for a long time a passion project for me, but it's clear that there's wa
 ### So what now?
 No, LXOS is not going to never come, we are still working on updates and work in the background! The new package manager we are going to use is made by no other than [user7210unix](https://github.com/user7210unix/), or 0000, the absolute LFS goat. I implore everyone to check out his github page, there are a lot of projects he has (including his very own OS!). From now on, [LXPKG](https://user7210unix.github.io/lxpkg/) is the official LearnixOS package manager, please stay tuned for all the awesome updates we are going to release (and maybe even our very own init system!). I really want to see LearnixOS become the independent distro that anyone can use in place of distros like gentoo, stay tuned for updates!
 
-## What is PMS?https://github.com/user7210unix/
+## What is PMS?
 PMS is essentially a minimal package manager. Okay, not really, for now, it just runs basic build scripts in the form of a .json.
 It is also the official package manager of the famous LearnixOS, the greatest distro (in production) of all time.
 ## Why make this?
